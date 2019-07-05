@@ -23,12 +23,6 @@ Tittel på masteroppgave: Tumor Dosimetry in a Phase I Study of Lu(177)-DOTA-HH1
 
 # Konferansedeltagelse:
 
-NSNM 2019
-EANM 2018
-ECNMP 2018
-NSNM 2018
-EANM 2017
-EANM 2016
 
 "Dosimetric methods in a new radioimmunotherapy",  MedFys 2015, Kvitfjell
 Posterpresentasjon
@@ -37,11 +31,15 @@ Posterpresentasjon
 
 "Pre-dosing with lilotomab prior to antibody-radionuclide conjugate therapy with 177Lu-lilotomab satetraxetan significantly increases the ratio of tumour to red marrow absorbed dose in non-Hodgkin lymphoma patients" - EANM 2017, Wien, Fritt foredrag (Highlight, Nominert til Marie Curie-prisen)
 
-Myelosuppresjon hos pasienter med non-Hodgkin lymfom behandlet med 177Lu-lilotomab satetraxetan kan predikeres ved måling av absorbert dose til rød benmarg - Nukleærmedisinsk vårmøte 2018, Sommarøy, Fritt foredrag (vant pris for beste frie foredrag)
+Myelosuppresjon hos pasienter med non-Hodgkin lymfom behandlet med 177Lu-lilotomab satetraxetan kan predikeres ved måling av absorbert dose til rød benmarg - NSNMs vårmøte 2018, Sommarøy, Fritt foredrag (vant pris for beste frie foredrag)
 
 "Myelosuppression in Non-Hodgkin Lymphoma Patients Treated with 177Lu-lilotomab satetraxetan Can Be Predicted by a Model with Red Marrow Absorbed Dose as the Only Parameter" - ECMP 2018, København, Fritt foredrag
 
 "Tumor absorbed dose and changes in FDG PET parameters in non-Hodgkin lymphoma patients treated with 177 Lu-lilotomab satetraxetan." - EANM 2018, Dusseldorf, Posterpresentasjon.
+
+"Absolute quantitation of lutetium-177 with a SPECT/CT-imaging system for increasing attenuation thickness" - NSNMs vårmøte 2019, Kristiansand, Fritt foredrag
+
+"Reproducibility and Accuracy for a Phantom with Lutetium-177 Filled Spherical Inserts Using two Different SPECT/CT Quantitation Methods; Implications for Tumour Dosimetry After 177Lu-lilotomab satetraxetan Treatment" - EANM 2019, Barcelona (akseptert Fritt foredrag)
 
 # Øvrige priser
 
