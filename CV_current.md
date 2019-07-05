@@ -1,6 +1,10 @@
 
 # Arbeidserfaring
 
+2015-PT Medisinsk Fysiker på Oslo Universitetssykehus. 
+Phd-stipendiat fra 2016 med planlagt avslutning i utgangen av 2019. 
+Avhandlingen består i bildebasert dosimetri ved behandling av Non Hodgkin lymfom-pasienter med 177-Lu-lilotomab satetraxetan.
+
 # Mastergrad
 
 Master i Teknologi Norges Teknisk-Naturvitenskapelige Universitet
@@ -26,11 +30,17 @@ NSNM 2018
 EANM 2017
 EANM 2016
 
-"Dosimetric methods in a new radioimmunotherapy"  MedFys 2015, Kvitfjell
+"Dosimetric methods in a new radioimmunotherapy",  MedFys 2015, Kvitfjell
 Posterpresentasjon
 
 "Pre-Dosing with Cold Antibody (HH1) Reduces Red Bone Marrow Absorbed Doses in Patients Treated with the Novel Antibody-Radionuclide-Conjugate 177-Lu-DOTA-HH1" - EANM 2016, Barcelona, Poster (Highlighted)
 
-"Pre-dosing with lilotomab prior to antibody-radionuclide conjugate therapy with 177Lu-lilotomab satetraxetan significantly increases the ratio of tumour to red marrow absorbed dose in non-Hodgkin lymphoma patients" - EANM 2017, Wien, Poster (Highlighted, Nominert til Marie Curie-prisen)
+"Pre-dosing with lilotomab prior to antibody-radionuclide conjugate therapy with 177Lu-lilotomab satetraxetan significantly increases the ratio of tumour to red marrow absorbed dose in non-Hodgkin lymphoma patients" - EANM 2017, Wien, Fritt foredrag (Highlighted, Nominert til Marie Curie-prisen)
+
+Myelosuppresjon hos pasienter med non-Hodgkin lymfom behandlet med 177Lu-lilotomab satetraxetan kan predikeres ved måling av absorbert dose til rød benmarg - Nukleærmedisinsk vårmøte 2018, Sommarøy, Fritt foredrag (vant pris for beste frie foredrag)
+
+"Myelosuppression in Non-Hodgkin Lymphoma Patients Treated with 177Lu-lilotomab satetraxetan Can Be Predicted by a Model with Red Marrow Absorbed Dose as the Only Parameter" - ECMP 2018, København
+
+"Tumor absorbed dose and changes in FDG PET parameters in non-Hodgkin lymphoma patients treated with 177 Lu-lilotomab satetraxetan." - EANM 2018, Dusseldorf, Posterpresentasjon.
 
 
